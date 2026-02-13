@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Engineer working as a Contractor at Walmart,<br>specializing in Kotlin, Jetpack, and modern Android architecture. <br>Passionate about building scalable, maintainable and<br> user-focused applications.
+Mobile Engineer working at Walmart,<br>specializing in Kotlin, Jetpack, and modern Android architecture. <br>Passionate about building scalable, maintainable and<br> user-focused applications.
 
 
 ## 🌐 Socials:
